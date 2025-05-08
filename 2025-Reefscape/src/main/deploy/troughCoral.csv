@@ -1,0 +1,6 @@
+elevator, 1.0
+moveto, -1.5, 0.0, 0.0
+elevator, 0.0
+intake, 1.0
+wait, 0.5
+intake, 0.0
